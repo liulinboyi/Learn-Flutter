@@ -1,3 +1,5 @@
+//初始化例子
+
 //import 'package:flutter/material.dart';
 //
 //void main() => runApp(MyApp());
@@ -110,6 +112,7 @@
 //  }
 //}
 
+//学习的例子
 import 'package:flutter/material.dart';
 
 void main() => runApp(new MyApp());
